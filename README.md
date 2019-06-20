@@ -1,5 +1,5 @@
 # WOE Sneaker
-WOE Sneaker is a Front End project aims to pracice Front End skills, such as HTML, CSS, JS and GSAP. The concept of WOE Sneaker website is, this is business website which targetting the sneaker market. In the website, users can find lots sneaker products which collected by the business owner. Also, WOE Sneaker write blogs with topics about sneaker culture.  
+WOE Sneaker is a Front End project aims to practice Front End skills, such as HTML, CSS, JS and GSAP. The concept of WOE Sneaker website is, this is business website which targetting the sneaker market. In the website, users can find lots sneaker products which collected by the business owner. Also, WOE Sneaker write blogs with topics about sneaker culture.  
 
 [visit website](http://woe-sneaker.surge.sh/)  
   
